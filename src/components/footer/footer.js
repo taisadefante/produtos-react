@@ -4,7 +4,7 @@ import styles from "./footer.module.css";
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-      <h1>Footer</h1>
+      <p>Copyright ©2023 Tais Defante . Todos os direitos reservados.</p>
     </footer>
   );
 };
